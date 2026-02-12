@@ -1,4 +1,4 @@
-# Satellite-Image-Mapper-3000
+# Satellite-Image-Mapper
 
 ## Table of Contents
 - [Introduction](#introduction)
